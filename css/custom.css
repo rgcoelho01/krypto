@@ -132,6 +132,7 @@ button {
     padding: 2rem 3rem;
 }
 
+
 #copyright #social-media a {
     width: 40px;
     height: 40px;
@@ -159,4 +160,10 @@ button {
     #banner h1 {
         font-size: 3.6rem;
     }
+}
+
+/********** Banner Personalizado **********/
+#texto {
+    font-size: 1.6rem;
+    color: #192440;
 }
